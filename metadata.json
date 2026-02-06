@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Batch Studio",
+  "description": "An advanced image generation studio that allows users to create images in batches from text prompts or image blueprints, utilizing AI-powered tools for prompt enhancement, variations, and storyboarding.",
+  "requestFramePermissions": []
+}
